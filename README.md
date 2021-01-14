@@ -3,8 +3,8 @@
 <p align="center">
 <br> <ul>  🔭 I’m currently student </ul>
 <br> <ul>🌱 I’m currently learning everything 🤣 </ul>
-<br> <ul> 👯 I’m looking to collaborate with other content creators </ol>
-<br> <ul> 🥅 2023 Goals: become Web Developer </ol>
+<br> <ul> 👯 I’m looking to collaborate with other content creators </ul>
+<br> <ul> 🥅 2023 Goals: become Web Developer </ul>
 <br> <ul> 📫 How to reach me: Disord: SamChrist#1300 </ul>
 <br> <ul> ⚡ Fun fact: I love to game and play music </ul>
 </p>
