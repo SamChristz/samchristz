@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: become Web Developer
-- 📫 How to reach me Disord : SamChrist#1300
+- 📫 How to reach me: Disord: SamChrist#1300
 - ⚡ Fun fact: I love to game and play music
 
 ### Spotify Playing 🎧
