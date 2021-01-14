@@ -12,12 +12,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SAM Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<h4 align="left">Skills</h4>
-<p align="center">
-  <img src=""/>
-  <img src=""/>
-</p>
-
 
 <p align="left">
   <strong><a href="https://www.discord.io/samchrist">Discord Server</a></strong> |
