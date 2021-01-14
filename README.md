@@ -11,7 +11,8 @@
 
 <p align="center">
 ### Spotify Playing 🎧
-
+</p>
+<p align="center">
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SAM Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 </p>
 
