@@ -1,16 +1,15 @@
-### Hi there <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:96.92%;position:relative;"><iframe width="260" height="252" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4trrqc"></iframe></div><p><a href="https://imgflip.com/gif/4trrqc">via Imgflip</a></p></div>
+### Hi there, I'm Samuel 👋
 
-<!--
-**SamChristz/samchristz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Students!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently student
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: become Web Developer
+- 📫 How to reach me: [Discord] (https://discord.io/samchrist)
+- ⚡ Fun fact: I love to game and play music
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
