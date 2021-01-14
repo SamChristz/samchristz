@@ -12,7 +12,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SAM Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<h4 align="center">Skills</h4>
+<h4 align="left">Skills</h4>
 <p align="center">
   <img src=""/>
   <img src=""/>
