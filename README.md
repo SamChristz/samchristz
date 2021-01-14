@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:96.92%;position:relative;"><iframe width="260" height="252" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4trrqc"></iframe></div><p><a href="https://imgflip.com/gif/4trrqc">via Imgflip</a></p></div>
 
 <!--
 **SamChristz/samchristz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
