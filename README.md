@@ -1,6 +1,6 @@
 ### <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Samuel</h1>
 
-<p align="center">
+<p align="lef">
 <br> <ul>  🔭 I’m currently student </ul>
 <br> <ul>🌱 I’m currently learning everything 🤣 </ul>
 <br> <ul> 👯 I’m looking to collaborate with other content creators </ul>
