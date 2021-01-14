@@ -1,12 +1,12 @@
 ### <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Samuel</h1>
 
 <p align="center">
-<br> <ol>  🔭 I’m currently student </ol>
-<br> <ol>🌱 I’m currently learning everything 🤣 </ol>
-<br> <ol> 👯 I’m looking to collaborate with other content creators </ol>
-<br> <ol> 🥅 2023 Goals: become Web Developer </ol>
-<br> <ol> 📫 How to reach me: Disord: SamChrist#1300 </ol>
-<br> <ol> ⚡ Fun fact: I love to game and play music </ol>
+<br> <ul>  🔭 I’m currently student </ul>
+<br> <ul>🌱 I’m currently learning everything 🤣 </ul>
+<br> <ul> 👯 I’m looking to collaborate with other content creators </ol>
+<br> <ul> 🥅 2023 Goals: become Web Developer </ol>
+<br> <ul> 📫 How to reach me: Disord: SamChrist#1300 </ul>
+<br> <ul> ⚡ Fun fact: I love to game and play music </ul>
 </p>
 
 ### Spotify Playing 🎧
