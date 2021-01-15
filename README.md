@@ -5,7 +5,7 @@
  - 🌱 I’m currently learning everything 🤣 
  - 👯 I’m looking to collaborate with other content creators
  - 🥅 2023 Goals: become Web Developer 
-- 📫 How to reach me **SamChrist#1300** 
+- 📫 How to reach me **samuelchristz200@gmail.com**
  - ⚡ Fun fact: I love to game and play music 
  
  
