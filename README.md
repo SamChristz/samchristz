@@ -8,12 +8,6 @@
  - 📫 How to reach me: Disord: SamChrist#1300 
  - ⚡ Fun fact: I love to game and play music 
  
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-novatorem.vercel.app/api/spotify-playing" alt="novatorem Spotify Playing" width="350" />](https://open.spotify.com/user/novatorem)
-
-
 <h4 align="left">Skills</h4>
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
