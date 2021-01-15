@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-sam.vercel.app/api/spotify-playing" alt="sam Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-novatorem.vercel.app/api/spotify-playing" alt="novatorem Spotify Playing" width="350" />](https://open.spotify.com/user/novatorem)
 
 
 <h4 align="left">Skills</h4>
@@ -27,10 +27,3 @@
 <a href="https://instagram.com/samchristz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samchristz" height="30" width="40" /></a>
 <a href="https://discord.gg/fXCYDJyVa2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fXCYDJyVa2" height="30" width="40" /></a>
 </p>
-
-
-<p align="left">
-  <strong><a href="https://www.discord.io/samchrist">Discord Server</a></strong> |
-  <strong><a href="https://www.instagram.com/samuelchistz/">Instagram</a></strong> |
-  <strong><a href="#">Youtube</a></strong>
- </p>
