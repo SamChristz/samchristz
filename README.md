@@ -6,7 +6,7 @@
  - 👯 I’m looking to collaborate with other content creators
  - 🥅 2023 Goals: become Web Developer 
 - 📫 How to reach me **samuelchristz200@gmail.com**
- - ⚡ Fun fact: I love to game and play music 
+ - ⚡ Fun fact: I love to game and listening music 
  
  
 <h4 align="left">Skills</h4>
