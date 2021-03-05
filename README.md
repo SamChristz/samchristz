@@ -31,6 +31,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samchristz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="samchristz" height="30" width="40" /></a>
-<a href="https://instagram.com/samchristz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samchristz" height="30" width="40" /></a>
+<a href="https://instagram.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samchristz" height="30" width="40" /></a>
 <a href="https://discord.gg/fXCYDJyVa2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fXCYDJyVa2" height="30" width="40" /></a>
 </p>
