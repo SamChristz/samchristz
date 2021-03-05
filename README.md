@@ -4,7 +4,7 @@
  - 🔭 I’m currently student
  - 🌱 I’m currently learning everything 🤣 
  - 👯 I’m looking to collaborate with other content creators
- - 🥅 2026 Goals: Working in Japan 
+ - 🥅 Goals: Working in Japan 
 - 📫 How to reach me **samuelchristz200@gmail.com**
  - ⚡ Fun fact: i like to be alone and listening music 
  
