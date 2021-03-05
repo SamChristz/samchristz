@@ -6,7 +6,7 @@
  - 👯 I’m looking to collaborate with other content creators
  - 🥅 Goals: Working in Japan 
 - 📫 How to reach me **samuelchristz200@gmail.com**
- - ⚡ Fun fact: i like to be alone and listening music 
+ - ⚡ Fun fact: i like to be alone & listening music 
  
  
 <h4 align="left">Skills</h4>
