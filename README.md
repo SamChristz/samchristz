@@ -4,9 +4,9 @@
  - 🔭 I’m currently student
  - 🌱 I’m currently learning everything 🤣 
  - 👯 I’m looking to collaborate with other content creators
- - 🥅 2023 Goals: become Web Developer 
+ - 🥅 2023 Goals: Working in Japan 
 - 📫 How to reach me **samuelchristz200@gmail.com**
- - ⚡ Fun fact: I love to game and listening music 
+ - ⚡ Fun fact: i like to be alone and listening music 
  
  
 <h4 align="left">Skills</h4>
