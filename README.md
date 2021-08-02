@@ -28,7 +28,7 @@
 </p>
 
 
-<h3 align="left">Discord bot</h3>
+<h3 align="left"> My discord bot</h3>
 <p align="left">
 <a href="https://top.gg/bot/835117199747186698">
   <img src="https://top.gg/api/widget/835117199747186698.svg" alt="Yuri-Chan" />
