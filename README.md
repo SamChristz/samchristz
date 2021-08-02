@@ -41,3 +41,6 @@
 <a href="https://instagram.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samchristz" height="30" width="40" /></a>
 <a href="https://discord.gg/fXCYDJyVa2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fXCYDJyVa2" height="30" width="40" /></a>
 </p>
+
+
+[![Discord Bots](https://top.gg/api/widget/835117199747186698.svg)](https://top.gg/bot/835117199747186698)
